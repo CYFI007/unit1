@@ -1,5 +1,23 @@
 //In this file you will declare three classes (object templates)
+const Song = {
+    title: "House Music",
+    artist: "Slauson Malone 1",
+    album: "EXCELSIOR",
+        Musician: {
+             name: "Jasper Marsalis",
+             instrument: "Guitar, Computer",
+             genre: "Electronic",
+        },
+};
 
+const Playlist = {
+    name: "Macabre",
+    song1: "House Music",
+    song2: "Village Ghetto Land",
+    song3: "Marie",
+    getInfo(Playlist){},
+
+    };
 
 //1. Declare a class called Song, it's constructor should take three parameters: title, artist, album
 

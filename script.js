@@ -1,4 +1,56 @@
 // 1. Import the all three objects (Song, Musician, Playlist) that you created in the MusicData.js module file
+const myPlaylist = {
+    getInfo(){Playlist},
+   
+    
+        song1: {
+            title: "House Music",
+            artist: {
+                name: "Slauson Malone 1",
+            },
+            album: "EXCELSIOR",
+            Description: "This song is trippy and interesting.",
+                Musician: {
+                     name: "Jasper Marsalis",
+                     instrument: "Guitar, Computer",
+                     genre: "Electronic",
+                     Description: "He makes music combing MAX msp and ableton and a guiatar to make wierd things.",
+                },
+            },
+
+        song2: {
+             title: "Village Ghetto Land",
+             artist: {
+                name: "Stevie Wonder"
+             },
+                album: "Songs In The Key of Life",
+                Description: "This song is very calming and confusing but enjoyable at the same time.",
+                Musician: {
+                     name: "Stevland Morris",
+                     instrument: "Everything",
+                     genre: "Funk",
+                     Description: "He is blind and can play all instruments",
+                    },
+                },
+
+        song3: {
+            title: "Marie",
+             artist: {
+                name: "Mach Hommy",
+             },
+                album: "Pray For Haiti",
+                Description: "This is a very nice hiphop beat with good raps to go with it.",
+                Musician: {
+                     name: "Mach Hommy",
+                     instrument: "Rap",
+                     genre: "HipHop",
+                     Description: "He makes empowering hiphop music.",
+                    },
+        },
+    };
+
+
+
 
 
 // 2. declare a new constant and assign to it a new musician object to describe the musician for the first song.
